@@ -1,10 +1,8 @@
 # best-chinese-front-end-blogs
 
-收集优质的中文前端博客（不定期更新中）
+注：来自网上公开资料，仅供参考，不保证准确性。
 
-注：博主的公司信息来自网上公开资料，仅供参考，不保证准确性。
-
-## 个人（控制在42个以内）
+## 个人
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
@@ -65,7 +63,7 @@
 
     
 
-## 团队（控制在16个以内）
+## 团队
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
 
@@ -97,16 +95,3 @@
 + [w3ctech](http://www.w3ctech.com/) - 文章聚合网站
 + [W3Help](http://w3help.org/zh-cn/home/compatibility.html) - 内容看起来很久没更新，但是文章很有质量。 
 + [w3cplus](http://www.w3cplus.com/) - 文章聚合网站
-
- 
-
-## 入选标准
-
-1. 我觉得内容还不错的博客（目前是这样，你觉得有更好的标准可以说出来）。
-2. 不追潮流，注重沉淀。
-3. 关注于解决问题，专注于更透彻的理解 Web 开发。
-4. 欢迎 PR
-
-# 待办事项
-
-+ 更新监控工具，一旦一段时间内不更新，就考虑下掉链接。
